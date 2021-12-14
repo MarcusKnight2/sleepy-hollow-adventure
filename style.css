@@ -20,8 +20,9 @@ fieldset {
 fieldset button {
     display: inline-block;
     text-align: center;
+    font-size: 14pt;
     background-color: #171614;
-    color: #fcf5e5;
+    color: #62929e;/*#fcf5e5;*/
     border-style: none;
     padding: 10px 25px;
     text-decoration: none;
@@ -43,7 +44,7 @@ body {
 
 p {
     font-family: 'Special Elite', monospace;
-    font-size: 16pt;
+    font-size: 14pt;
     margin: 35px 25%;
 }
 

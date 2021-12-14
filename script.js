@@ -17,7 +17,7 @@ let story_telling = {
         }
     },
     "2_a":{
-        "question": "You enter the inn, and go up to the bar.",
+        "question": "You enter the inn, and walk up to the bar.",
         "answers": {
             "a":"Go get a room"
         }
@@ -240,7 +240,7 @@ let story_telling = {
         "answers": {
             "finish": "You survived the Headless Horseman, but watched someone else get injured along the way."
         }
-    },//////////
+    },
     "11_e":{
         "question": "Quickly, the figure gets closer and closer, and you start running away.",
         "answers": {
@@ -268,27 +268,26 @@ let story_telling = {
             "finish": "You start running yourself, but the Headless Horseman is much faster and outruns you. You lost."
         }
     },
-    ///////////////////////////////////////
     "12_a":{
-        "question": "You turn back, and start going back towards the inn. ",
+        "question": "You turn around, and start going back towards the inn.",
         "answers": {
             "a": "Continue"
         }
     },
     "12_b":{
-        "question": "You keep going deeper into the forest, and your foot snags on a thick root on the ground.",
+        "question": "You keep going deeper into the forest. Your foot snags on a thick root on the ground.",
         "answers": {
             "b": "Continue"
         }
     },
     "12_c":{
-        "question": "You turn back, and go back to Tarry Town",
+        "question": "You turn back, and go back towards Tarry Town",
         "answers": {
             "c": "Continue"
         }
     },
     "12_d":{
-        "question": "You continue into the clearing. You hear wolves howl, which sends shivers down your spine.",
+        "question": "You continue into the clearing. You hear the howling of wolves, which sends shivers down your spine.",
         "answers": {
             "d": "\"That's not scary\"",
             "e": "\"I should go back\""
@@ -296,34 +295,34 @@ let story_telling = {
     },
     //Ending
     "12_e":{
-        "question": "You surrender to the Headless Horseman for some reason",
+        "question": "You surrender yourself to the Headless Horseman for some reason.",
         "answers": {
             "finish": "You died after giving up. Why would you do that?"
         }
     },
     //Ending
     "12_f":{
-        "question": "You run and hide behind a tree and then run back to the village",
+        "question": "You run and hide behind a tree and then back to the Tarry Town",
         "answers": {
-            "finish": "You survived the Headless Horseman! Good job!"
+            "finish": "Congrats! You survived the Headless Horseman! Good job!"
         }
     },
     "12_g":{
         "question": "While riding you see a figure in the distance that resembles a headless man on a horse.",
         "answers": {
-            "f": "Ignore the figure and keep going",
+            "f": "Ignore it and keep going",
             "g": "Move closer to the town"
         }
     },
     "13_a":{
-        "question": "While going back, you hear the sound of horse hooves hitting the dirt. You turn around and see the headless horseman standing there!",
+        "question": "While going back, you hear the sound of hooves hitting dirt. You turn around and see the headless horseman standing there!",
         "answers": {
             "a": "RUN!",
             "b": "Try to trick him"
         }
     },
     "13_b":{
-        "question": "You get back up and keep going. Suddenly you see a figure on a horse in the distance, seemingly chasing you.",
+        "question": "You get back up and keep going. Suddenly you see a figure sitting on a horse in the distance, who seems to be chasing you.",
         "answers": {
             "c": "RUN!",
             "d": "Ignore it, it's probably nothing"
@@ -331,45 +330,45 @@ let story_telling = {
     },
     //Ending
     "13_c":{
-        "question": "The Headless Horseman starts catching up to you, and throws his pumkin at you.",
+        "question": "The Headless Horseman starts to catch up to you, and he throws his pumkin at you!",
         "answers": {
-            "finish": "You lost! You died when the pumkin hit you.",
+            "finish": "You lost! You died when the pumpkin hit you.",
         }
     },
     "13_d":{
-        "question": "You keep going, deeper into the clearing, and you see a light with the silhouette of a headless man on a horse.",
+        "question": "You keep going deeper into the clearing, and you see a light with the silhouette of a headless man on a horse.",
         "answers": {
-            "e": "Run away"
+            "e": "Run away!"
         }
     },
     //Ending
     "13_e":{
-        "question": "You turn around and start going back to the town. Just then, you hear the sound of hooves behind you. You speed up as fast as you can, but the man on the horse caught up to you.",
+        "question": "You turn around and start going back towards the town. Just then, you hear the sound of hooves behind you. You start to run as fast as you can, but the man on the horse caught up to you.",
         "answers": {
             "finish": "You died! The Headless Horseman caught up to you and killed you."
         }
     },
     "13_f":{
-        "question": "You keep going, ignoring the figure. You look behind you and see the figure is chasing you!",
+        "question": "You keep going, ignoring the figure. You quoickly look behind you and see the figure has started chasing you!",
         "answers": {
             "f": "Run to a bridge crossing a creek",
             "g": "Jump over the creek"
         }
     },
     "13_g":{
-        "question": "You move back to the side of the Sleepy Hollow, but the Headless Horseman is still chasing you. You notice a creek in front of you, and a bridge across it.",
+        "question": "You move back to the side of the Sleepy Hollow, but the Headless Horseman is still chasing you. You notice a creek in front of you, and a bridge going across it.",
         "answers": {
             "h": "Run across the bridge"
         }
     },
     "14_a":{
-        "question": "You immediately start running, going as fast as you possibly can. ",
+        "question": "You immediately start running, going as fast as you possibly can.",
         "answers": {
             "a": "Continue"
         }
     },
     "14_b":{
-        "question": "You decide you want to trick him. How will you do that?",
+        "question": "You decide you want to trick him. How will you go about that?",
         "answers": {
             "b": "Give up and run",
             "c": "Duck under him",
@@ -377,68 +376,68 @@ let story_telling = {
         }
     },
     "14_c":{
-        "question": "You start to run back, weaving through the forest. You look back quickly and see the figure still chasing you.",
+        "question": "You start to running, weaving through the thick forest. You look back quickly and see the figure still chasing you.",
         "answers": {
             "e": "Continue"
         }
     },
     "14_d":{
-        "question": "You go further into the forest, and you look back where you thought you saw the figure, and it was gone.",
+        "question": "You go further into the forest, and you look back where you thought you saw the figure, and it dissapeared.",
         "answers": {
             "f": "Continue"
         }
     },
     "14_e":{
-        "question": "You start to run back, but the Headless Horseman is catching up to you.",
+        "question": "You start to run back, but the Headless Horseman is catching up with you.",
         "answers": {
-            "g": "Go to the forest",
+            "g": "Go into the forest",
             "h": "Go to Tarry Town"
         }
     },
     //Ending
     "14_f":{
-        "question": "You run over to the bridge and cross it, and notice that the horseman had turned around.",
+        "question": "You run over to the bridge and cross it. When you look bak you notice that the horseman had turned around.",
         "answers": {
-            "finish": "You survived the Headless Horseman, and were able to keep going to Boston safely."
+            "finish": "You survived the Headless Horseman, and were able to keep going onwards to Boston safely."
         }
     },
     //Ending
     "14_g":{
-        "question": "You make your horse go over to the creek and jump over it. Your horse's hoof slips and the horseman catches up to you and throws his pumpkin at you.",
+        "question": "You make your horse go to the creek and jump over it. Your horse's hoof slips and the horseman catches up to you. He throws his pumpkin at you, and it hits you in the head.",
         "answers": {
             "finish": "You were so close, but the Headless Horseman won. Better luck next time."
         }
     },
     //Ending
     "14_h":{
-        "question": "The Headless Horseman throws his pumpkin at you and then turns around when you cross the bridge.",
+        "question": "The Headless Horseman throws his pumpkin at you, then turns around when you go across the bridge.",
         "answers": {
-            "finish": "While the Headless Horseman threw the pumpkin at you, you still survived and kept going to Boston. Good job!"
+            "finish": "Even though the Headless Horseman threw his pumpkin at you, you dodged it and survived, staying on track towards Boston. Good job!"
         }
     },
     //Ending
     "15_a":{
-        "question": "After what felt like ages, you finally reached the town, and the headless horseman gave up. Right before turning around though, he threw a pumpkin at you, and it hit your leg.",
+        "question": "After what felt like ages, you finally reach the town, and the Headless Horseman gives up and turns around. Right before turning around though, he throws a pumpkin at you, and it hits your leg.",
         "answers": {
-            "finish": "Congrats! You survived the Headless Horseman! While you did have minor leg injuries, you were fine."
+            "finish": "Congrats! You survived the Headless Horseman! While you did have minor leg injuries, you ended up being fine."
         }
     },
     //Ending
     "15_b":{
-        "question": "You tried to run back, but the headless horseman caught up to you because you spent so much time pondering your decision.",
+        "question": "You try to run back, but the Headless Horseman catches up with you because you spent so much time pondering your decision.",
         "answers": {
             "finish": "You died! You were so close, but the Headless Horseman was just a little faster. Better luck next time!"
         }
     },
     //Ending
     "15_c":{
-        "question": "In attempt to trick him, you duck under him when he starts running towards you.",
+        "question": "In attempt to trick him, you duck under his horse when he starts going towards you.",
         "answers": {
-            "finish": "You died! While ducking, his horse's hoof hit your head and you died."
+            "finish": "You died! While ducking, his horse's leg hit your head and you died."
         }
     },
     "15_d":{
-        "question": "When he starts running towards you, you quickly jump out of the way, but you see him turning around after.",
+        "question": "When he starts running towards you, you quickly jump out of the way, and you see him sharply turning around after.",
         "answers": {
             "a": "Do it again",
             "b": "Run"
@@ -446,65 +445,66 @@ let story_telling = {
     },
     //Ending
     "15_e":{
-        "question": "When he starts running towards you, you quickly jump out of the way, but you see him turning around after.",
+        "question": "You start running faster, and make it to the tavern very quickly.",
         "answers": {
             "finish": "You made it back to the tavern and survived the Headless Horseman!"
         }
     },
     //Ending
     "15_f":{
-        "question": "You then hear hooves behind you. You turn around, and you see a man with no head on a horse. He's holding a pumpkin, and he throws it at you",
+        "question": "You then hear the sound of hooves behind you. You turn around, and you see a man with no head riding a horse. He's holding a pumpkin, and he throws it straight at you",
         "answers": {
-            "finish": "Oof! The pumpkin hit your head and you passed out."
+            "finish": "Oof! The pumpkin hit your head and you passed out. You lost."
         }
     },
     "15_g":{
-        "question": "You go into the forest, and try to find somewhere to hide before you run to the town.",
+        "question": "You go into the forest, and try to find somewhere to hide before you run back to Tarry Town.",
         "answers": {
-            "c": "Go to a small hut in the forest",
+            "c": "Go into a run-down hut in the forest",
             "d": "Hide inside a hollowed-out tree"
         }
     },
     "15_h":{
-        "question": "You sprint straight to the town, as fast as you can.",
+        "question": "You sprint straight towards the town, going as fast as you can.",
         "answers": {
             "e": "Continue"
         }
     },
     "16_a":{
-        "question": "As the Headless Horseman starts running back, and you jump out of the way again.",
+        "question": "As the Headless Horseman starts running back, you jump out of the way again.",
         "answers": {
             "a": "Start running"
         }
     },
     "16_b":{
-        "question": "You try to run, but you have nowhere to go, because the Headless Horseman is towards the village.",
+        "question": "You try to run, but you have nowhere to go because the Headless Horseman is between you and the village.",
         "answers": {
             "finish": "The Headless Horseman kills you! R.I.P."
         }
     },
     "16_c":{
-        "question": "You go to the hut, and hide by the door. The Headless Horseman follows you, and the door creaks open.",
+        "question": "You go to the hut, and hide behind the door. The Headless Horseman follows you, and the door creaks open.",
         "answers": {
             "finish": "The Headless Horseman is there when the door opens, and he throws his pumpkin at you. Oof!"
         }
     },
+    // Ending
     "16_d":{
-        "question": "You go into a hollow tree you see nearby, and right then you see the Headless Horseman run past and not notice you.",
+        "question": "You go into a hollow tree you spot nearby, and see the Headless Horseman run past and not notice you.",
         "answers": {
             "finish": "Congrats! You run back to the town and survive the Headless Horseman."
         }
     },
     // Ending
     "16_e":{
-        "question": "The Headless Horseman gets closer and closer to you, and he catches up to you.",
+        "question": "The Headless Horseman gets closer and closer to you, and he eventually catches up to you.",
         "answers": {
-            "finish": "The Headless Horseman ended up killing you. Oof."
+            "finish": "The Headless Horseman ends up killing you. Oof."
         }
     },
     // Ending
     "17_a":{
-        "question": "You start running towards the village. After a little while of running, you made it to the village and the headless horseman had turned around.",
+        "question": "You start running towards the village. After a little while of running, you make it to the village and the Headless Horseman has turned around.",
         "answers": {
             "finish": "Congrats! You survived the Headless Horseman!"
         }
@@ -517,17 +517,6 @@ let story_telling = {
         }
     }
 };
-
-/*
-    ,
-    "_":{
-        "question": "",
-        "answers": {
-            "": "",
-            "": ""
-        }
-    }
-*/ 
 
 function nextQuestion(button){
     var answer = button.value;
